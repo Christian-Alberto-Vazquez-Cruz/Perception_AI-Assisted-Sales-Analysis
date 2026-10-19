@@ -1,0 +1,8 @@
+[
+  {"fecha":"2026-01-01","categoria":"Botanas","unidades":90,"importe":900},
+  {"fecha":"2026-01-01","categoria":"Bebidas","unidades":50,"importe":500},
+  {"fecha":"2026-02-01","categoria":"Botanas","unidades":100,"importe":1000},
+  {"fecha":"2026-02-01","categoria":"Bebidas","unidades":50,"importe":500},
+  {"fecha":"2026-03-01","categoria":"Botanas","unidades":82,"importe":820},
+  {"fecha":"2026-03-01","categoria":"Bebidas","unidades":50,"importe":500}
+]
