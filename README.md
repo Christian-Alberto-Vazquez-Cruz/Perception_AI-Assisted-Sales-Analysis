@@ -1,5 +1,4 @@
-![Project 1](./docs/project_1.png)
-![Project 2](./docs/project_2.png)
+## Perception ##
 
 Perception es una aplicación para el análisis de ventas en una tienda mediante IA. Recibe los datos de ventas en formato JSON y  posteriormente calcula las métricas con pandas y construye las gráficas mediante recharts. Haciendo uso de un chat integrado, permite realizar preguntas del negocio y obtener respuestas por parte del modelo gpt-oss-120b, el cual es ejecutado mediante Groq. Utiliza RAG con Sentence Transformers y ChromaDB para recuperar el contexto de las guías de acciones, diagnóstico y estacionalidad (Backend\knowledge).
 
@@ -60,3 +59,6 @@ El último comando prueba Sentence Transformers y Chroma reales usando la carpet
 ```powershell
 .\.venv\Scripts\python.exe -m pytest Backend/tests -q --basetemp=.test-tmp
 ```
+
+![Project 1](./docs/project_1.png)
+![Project 2](./docs/project_2.png)
