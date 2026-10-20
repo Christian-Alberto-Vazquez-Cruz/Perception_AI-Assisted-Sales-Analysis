@@ -57,3 +57,6 @@ El último comando prueba Sentence Transformers y Chroma reales usando la carpet
 ```powershell
 .\.venv\Scripts\python.exe -m pytest Backend/tests -q --basetemp=.test-tmp
 ```
+
+![Project 1](./docs/project_1.png)
+![Project 2](./docs/project_2.png)
